@@ -50,6 +50,10 @@ Open `http://localhost:3000`, connect a wallet, and approve Arc Testnet when pro
 6. Sign the native-USDC transaction in the wallet.
 7. Open the ArcScan receipt link after ArcFlow reports finality.
 
+## Agent identity roadmap
+
+The MVP contains a transparent, rules-based payment-policy agent. It is deliberately user-approved rather than autonomous. The next milestone is ERC-8004 registration on Arc Testnet; `public/agent-metadata.json` and the required registry addresses are documented in [docs/agent-identity-plan.md](docs/agent-identity-plan.md).
+
 ## Safety and scope
 
 - This is a Testnet prototype, not a production payment product.

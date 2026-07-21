@@ -1,0 +1,14 @@
+{
+  "name": "ArcFlow Payment Policy Agent",
+  "description": "A transparent payment policy agent that evaluates Arc Testnet USDC payment requests and requires explicit wallet-owner approval before settlement.",
+  "agent_type": "payment_policy",
+  "capabilities": [
+    "payment_request_evaluation",
+    "policy_explanation",
+    "user_approved_usdc_settlement",
+    "receipt_verification"
+  ],
+  "network": "Arc Testnet",
+  "chain_id": 5042002,
+  "version": "0.1.0"
+}
