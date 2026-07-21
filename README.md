@@ -40,6 +40,11 @@ npm run dev
 
 Open `http://localhost:3000`, connect a wallet, and approve Arc Testnet when prompted.
 
+## Live links
+
+- Live prototype: [arcflow-rose.vercel.app](https://arcflow-rose.vercel.app)
+- Checkpoint presentation: [arcflow-rose.vercel.app/deck](https://arcflow-rose.vercel.app/deck)
+
 ## Demo path
 
 1. Fund two test wallets with Arc Testnet USDC.
